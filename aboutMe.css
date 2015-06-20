@@ -1,0 +1,76 @@
+<style>
+
+body {
+	position: relative;
+	margin: 25px;
+}
+
+span {
+	display: block;
+	padding: 20px 0px 0px 0px;
+}
+
+body .pic {
+	width: 320px;
+	height: 250px;
+	border-radius: 10px;
+	transform: rotate(270deg);
+	position: relative;
+	left: 900px;
+	top: 140px;
+}
+
+.myName {
+	font-size: 100px;
+	font-weight: bold;
+	font-family: font-family: 'Bad Script', cursive;
+	letter-spacing: 1px;
+	color: rgb(99, 99, 99) 
+}
+
+.location {
+	font-size: 12px;
+	letter-spacing: 1px;
+	color: gray;
+	font-weight: bold;
+	position: relative;
+	left: 7px;
+	top: -5px;
+	text-transform: uppercase;
+}
+
+.blurb {
+	font-size: 22px;
+	position: relative;
+	left: 7px;
+	top: 40px;
+}
+
+.intro {
+	text-align: left;
+}
+
+.content {
+	margin: 0px 20px 0px 20px;
+	max-width: 500px;
+}
+
+.email {
+	border-radius: 10px;
+	margin: 100px 0px 0px 600px;
+}
+
+.heading {
+	position: relative;
+	top: -200px;
+	left: 50px;
+}
+
+.aboutme {
+	position: relative;
+	top: -200px;
+	left: 40px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+</style>
